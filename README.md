@@ -2,8 +2,8 @@
 ## Summary
   This project takes a look at different weather conditions around the world, using an OpenWeatherMap api key to pull current weather statuses from 2,000 longitudes and latitudes across the globe. Then, an analysis shows the relationship between a location's latitude and longitude based on max temperature, humidity, cloudiness, and wind speed. Furthermore, it allows a user to input a desired temperature maximum and minimum to output a range of cities that fulfill those temperature requirements and gives them a possible itinerary, with possible hotels included. 
   ### Tools
-    *Google API keys
-    *OpenWeatherMap API keys
+  - Google API keys
+  - OpenWeatherMap API keys
  
  ## Results
  ![Fig1](https://user-images.githubusercontent.com/89168119/137013375-b2adcdb7-4723-4a32-bcd3-dba61a725a6e.png)
